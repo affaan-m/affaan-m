@@ -1,6 +1,6 @@
 # Affaan Mustafa
 
-![image](https://github.com/user-attachments/assets/92efea8b-fc06-48a7-afb2-8477cebf7e12)
+<img src="https://github.com/user-attachments/assets/92efea8b-fc06-48a7-afb2-8477cebf7e12" width="300" />
 
 
 👋 **No sugarcoating here. This is my story. I write my narrative.**
