@@ -1,20 +1,23 @@
 # Affaan Mustafa
 
+![image](https://github.com/user-attachments/assets/92efea8b-fc06-48a7-afb2-8477cebf7e12)
+
+
 👋 **No sugarcoating here. This is my story. I write my narrative.**
 
 I was born in Ames, Iowa, landed in Bellevue, Washington, and spent my teens doing what most curious kids with internet access did: blowing up eBay storefronts, messing with code, and making spectacularly dumb crypto trades. Some worked out, most blew up in my face. I never claimed trading genius; I just refused to quit.
 
 > That’s been my MO forever: break it, rebuild it, repeat until it stops breaking.
 
-High school almost broke *me*. On the verge of flunking out, staring down potential jail time after a reckless motorcycle stunt… let’s just say hitting rock bottom forces you to look up. That scare pushed me into community college, then UC San Diego. I overloaded credits like a maniac, practically lived in the library, and somehow crammed two Bachelor’s degrees—Mathematics-Computer Science and Business Economics—into less than three years, finishing before I turned 21. People think it was for prestige; honestly, I was just too damn stubborn to fail again.
+High school almost broke *me*. On the verge of flunking out, staring down potential jail time after a reckless motorcycle stunt… let’s just say hitting rock bottom forces you to look up. That scare pushed me into community college, then UC San Diego. I overloaded credits like a maniac, practically lived in the library, and somehow crammed two Bachelor’s degrees—Mathematics-Computer Science and Business Economics—into less than three years, finishing before I turned 20. People think it was for prestige; honestly, I was just too damn stubborn to fail again.
 
 UCSD was where I found my footing: I’m a builder, a solver, addicted to the hustle. Built OpenBoxEcommerce, scaled it to six figures. Interned at DataScienceDojo. Tutored to keep my fundamentals sharp and maybe give something back. And yeah, kept trading crypto, learning expensive lessons with every blown account. If there’s a dumb mistake, I’ve probably made it, sometimes live on stream – call it free R&D.
 
 Grad school at the University of Washington followed. I dove deep into reinforcement learning, behavioral economics, hyper-networking – anything to get an edge building the agentic frameworks I envisioned. Nights were a blur of job interviews. A vendor role at Microsoft? Or a wild shot at ai16zdao (the Web3 “hedge-fund parody”)? I chose the comedic madness of agentic AI, naturally. That led to ElizaOS, where I learned `React`, `Next.js`, `TypeScript` on the fly, grinding like crazy for a core dev seat. Short-lived, but crucial.
 
-Then came ModernStoicAI. They wanted an autonomous trading system. This put me on the map because we built *everything* in public – hours upon hours of me coding live. Insane? Maybe. Radical transparency? Definitely. We hit a $35M+ market cap fast. Then, the inevitable drama: founder disputes, getting booted, watching it crumble. I stayed transparent, told my side, and kept building. Much of this work has since been **[open-sourced](https://github.com/affaan-m/modernstoicai-work)** (Link to your ModernStoicAI open-source repo).
+Then came ModernStoicAI. They wanted an autonomous trading system. This put me on the map because we built *everything* in public – hours upon hours of me coding live. Insane? Maybe. Radical transparency? Definitely. We hit a $35M+ market cap fast. Then, the inevitable drama: founder disputes, getting booted, watching it crumble. I stayed transparent, told my side, and kept building. Much of this work has since been **[open-sourced](https://github.com/affaan-m/dprc-autotrader-v1)**
 
-My stint with Cainam Ventures was a brief, pro-bono contract. It was an intense period of 17-hour coding sprees, and I’m grateful for the experience. That work, too, has been **[open-sourced](https://github.com/affaan-m/cainam-work)** (Link to your Cainam open-source repo) for the community to learn from and build upon.
+My stint with Cainam Ventures was a brief, pro-bono contract. It was an intense period of 17-hour coding sprees, and I’m grateful for the experience. That work, too, has been **[open-sourced](https://github.com/affaan-m/sol-onchain-analyst)** for the community to learn from and build upon.
 
 Meanwhile, the DMs flooded: “Affaan, build us an AI agent?” “Need a Web3 platform, can you do it?” My answer became **DCUBE** – initially an AI CRM idea, now a full-blown AI agent development agency. We build next-gen agentic systems for clients, often taking equity alongside stablecoin because shared risk means shared reward.
 
