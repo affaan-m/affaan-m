@@ -84,6 +84,12 @@ That’s me. No fluff. Just a guy who’s failed a lot, learned a lot, and keeps
 
 ---
 
+Currently I'm building out https://pmfprobe.com where I took first place out of over 100 at the Anthropic x Forum Ventures Hackathon
+
+I am also in the process of getting https://dexploy.com acquired
+
+---
+
 ## 🔗 Connect & Explore My Work
 
 **Professional & Social:**
