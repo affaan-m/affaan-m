@@ -6,14 +6,12 @@
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 ### [Zenith Chat](https://zenith.chat)
-**🏆 Anthropic x Forum Ventures Hackathon Winner** - Won $15k in Anthropic credits, placing first among 100+ participants (almost solo with 1 partner).
+**Anthropic x Forum Ventures Hackathon Winner** - Won $15k in Anthropic credits, placing first among 100+ participants (almost solo with 1 partner).
 
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/eaf9ddd3-02ee-465b-9288-2c1f80ffdb1d" width="400" />
-</div>
+https://github.com/user-attachments/assets/eaf9ddd3-02ee-465b-9288-2c1f80ffdb1d
 
 ### [PMX Trade](https://pmx.trade)
 **Founding Engineer / Product Lead** - Currently building next-generation trading infrastructure.
@@ -24,21 +22,18 @@ One of my most recent sole creations, focused on deployment automation and infra
 ### [0em Labs](https://0emlabs.com)
 Building **inbox0** - the MCP marketplace. Pioneering zero-employee company infrastructure with AI-powered autonomous business operations.
 
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/8e4406be-2364-471f-af41-d2f358ba07d2" width="400" />
-  <img src="https://github.com/user-attachments/assets/64f2a97b-1141-4a7d-98f1-3da70ccd8c1d" width="400" />
-</div>
+https://github.com/user-attachments/assets/8e4406be-2364-471f-af41-d2f358ba07d2
+
+https://github.com/user-attachments/assets/64f2a97b-1141-4a7d-98f1-3da70ccd8c1d
 
 ---
 
-## 📦 Previous Work
+## Previous Work
 
 ### [AYO Protocol](https://ayoprotocol.com)
 AI-powered yield staking platform with Agent NEO autonomously managing assets across protocols. Reached 600+ active users at peak with over $20k AUM and $2.5M peak FDV on platform token. *"One of a kind AI powered yield staking platform where our agent analyzes costs, fees, and risk tolerance to optimize your yield."*
 
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/05701132-7388-4996-b5af-f9376eda92c3" width="400" />
-</div>
+https://github.com/user-attachments/assets/05701132-7388-4996-b5af-f9376eda92c3
 
 ### ModernStoicAI / stoictradingai ([@stoictradingai](https://x.com/stoictradingai))
 Built the **first autonomous trading agent on Solana**. Live-streamed development 15+ hours daily for 2 months, peaking at **70k concurrent viewers** on X. Launched as $stoic token, hitting **$38M FDV**. *"It would execute trades then tweet the SPL token traded, amount invested, reasoning, and blockchain transaction link."* Open-sourced after leaving due to co-founder issues. Project continues as HyperTraderAI.
@@ -51,7 +46,7 @@ Founded at 18, ran ecommerce business (OpenBoxEcommerce) generating **$150k+ pro
 
 ---
 
-## 🔬 Research & Open Source
+## Research & Open Source
 
 - **[HyperMamba](https://github.com/affaan-m/HyperMamba)** - Novel algorithm design (MAMBA with a twist) for autonomous trading
 - **[Research Repository](https://github.com/affaan-m/research)** - Various projects in quantitative finance, economics, and ML
@@ -67,7 +62,7 @@ Founded at 18, ran ecommerce business (OpenBoxEcommerce) generating **$150k+ pro
 
 ---
 
-## 🔗 Connect
+## Connect
 
 **Professional:**
 - GitHub: [@affaan-m](https://github.com/affaan-m)
