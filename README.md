@@ -11,13 +11,13 @@
 ### [Zenith Chat](https://zenith.chat)
 **Anthropic x Forum Ventures Hackathon Winner** - Won $15k in Anthropic credits, placing first among 100+ participants (almost solo with 1 partner).
 
-https://github.com/user-attachments/assets/eaf9ddd3-02ee-465b-9288-2c1f80ffdb1d
-
 ### [PMX Trade](https://pmx.trade)
 **Founding Engineer / Product Lead** - Currently building next-generation trading infrastructure.
 
 ### [Dexploy](https://dexploy.com)
-One of my most recent sole creations, focused on deployment automation and infrastructure.
+One of my most recent solo creations, focused on deployment automation and infrastructure.
+
+<img src = "https://github.com/user-attachments/assets/eaf9ddd3-02ee-465b-9288-2c1f80ffdb1d" width="200">
 
 ### [0em Labs](https://0emlabs.com)
 Building **inbox0** - the MCP marketplace. Pioneering zero-employee company infrastructure with AI-powered autonomous business operations.
