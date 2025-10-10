@@ -33,7 +33,9 @@ https://github.com/user-attachments/assets/64f2a97b-1141-4a7d-98f1-3da70ccd8c1d
 ### [AYO Protocol](https://ayoprotocol.com)
 AI-powered yield staking platform with Agent NEO autonomously managing assets across protocols. Reached 600+ active users at peak with over $20k AUM and $2.5M peak FDV on platform token. *"One of a kind AI powered yield staking platform where our agent analyzes costs, fees, and risk tolerance to optimize your yield."*
 
-https://github.com/user-attachments/assets/05701132-7388-4996-b5af-f9376eda92c3
+
+https://github.com/user-attachments/assets/cf272e2b-07e7-491b-9fbc-6fd63e77382d
+
 
 ### ModernStoicAI / stoictradingai ([@stoictradingai](https://x.com/stoictradingai))
 Built the **first autonomous trading agent on Solana**. Live-streamed development 15+ hours daily for 2 months, peaking at **70k concurrent viewers** on X. Launched as $stoic token, hitting **$38M FDV**. *"It would execute trades then tweet the SPL token traded, amount invested, reasoning, and blockchain transaction link."* Open-sourced after leaving due to co-founder issues. Project continues as HyperTraderAI.
