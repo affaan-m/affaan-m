@@ -8,10 +8,34 @@ https://zenith.chat \[Anthropic x Forum Ventures Hackathon Winner\]
 
 https://pmx.trade
 
-paused
-
 https://dexploy.com
+
+
+
+https://github.com/user-attachments/assets/eaf9ddd3-02ee-465b-9288-2c1f80ffdb1d
+
+
+
+
 https://0emlabs.com
+
+
+
+https://github.com/user-attachments/assets/8e4406be-2364-471f-af41-d2f358ba07d2
+
+
+https://github.com/user-attachments/assets/64f2a97b-1141-4a7d-98f1-3da70ccd8c1d
+
+
+prev:
+
+https://ayoprotocol.com
+
+https://github.com/user-attachments/assets/05701132-7388-4996-b5af-f9376eda92c3
+
+
+
+
 
 ## 🔗 Connect & Explore My Work
 
