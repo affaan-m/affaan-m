@@ -4,6 +4,8 @@
 
 **Builder of autonomous systems and AI-powered platforms. Former core developer at elizaOS, now focused on zero-employee companies.**
 
+**[View Portfolio Website →](https://affaanmustafa.com)**
+
 ---
 
 ## Current Projects
@@ -11,20 +13,22 @@
 ### [Zenith Chat](https://zenith.chat)
 **Anthropic x Forum Ventures Hackathon Winner** - Won $15k in Anthropic credits, placing first among 100+ participants (almost solo with 1 partner).
 
+<img src="https://github.com/user-attachments/assets/eaf9ddd3-02ee-465b-9288-2c1f80ffdb1d" width="600">
+
 ### [PMX Trade](https://pmx.trade)
 **Founding Engineer / Product Lead** - Currently building next-generation trading infrastructure.
 
 ### [Dexploy](https://dexploy.com)
 One of my most recent solo creations, focused on deployment automation and infrastructure.
 
-<img src = "https://github.com/user-attachments/assets/eaf9ddd3-02ee-465b-9288-2c1f80ffdb1d" width="200">
+<video src="https://affaanmustafa.com/videos/dexploy.mp4" width="600" controls></video>
 
 ### [0em Labs](https://0emlabs.com)
 Building **inbox0** - the MCP marketplace. Pioneering zero-employee company infrastructure with AI-powered autonomous business operations.
 
-https://github.com/user-attachments/assets/8e4406be-2364-471f-af41-d2f358ba07d2
+<video src="https://affaanmustafa.com/videos/inbox_0_problem.mov" width="600" controls></video>
 
-https://github.com/user-attachments/assets/64f2a97b-1141-4a7d-98f1-3da70ccd8c1d
+<video src="https://affaanmustafa.com/videos/inbox0_demo.mov" width="600" controls></video>
 
 ---
 
@@ -33,9 +37,7 @@ https://github.com/user-attachments/assets/64f2a97b-1141-4a7d-98f1-3da70ccd8c1d
 ### [AYO Protocol](https://ayoprotocol.com)
 AI-powered yield staking platform with Agent NEO autonomously managing assets across protocols. Reached 600+ active users at peak with over $20k AUM and $2.5M peak FDV on platform token. *"One of a kind AI powered yield staking platform where our agent analyzes costs, fees, and risk tolerance to optimize your yield."*
 
-
-https://github.com/user-attachments/assets/cf272e2b-07e7-491b-9fbc-6fd63e77382d
-
+<video src="https://affaanmustafa.com/videos/AYO_Protocol.mp4" width="600" controls></video>
 
 ### ModernStoicAI / stoictradingai ([@stoictradingai](https://x.com/stoictradingai))
 Built the **first autonomous trading agent on Solana**. Live-streamed development 15+ hours daily for 2 months, peaking at **70k concurrent viewers** on X. Launched as $stoic token, hitting **$38M FDV**. *"It would execute trades then tweet the SPL token traded, amount invested, reasoning, and blockchain transaction link."* Open-sourced after leaving due to co-founder issues. Project continues as HyperTraderAI.
