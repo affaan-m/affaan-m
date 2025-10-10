@@ -13,8 +13,6 @@
 ### [Zenith Chat](https://zenith.chat)
 **Anthropic x Forum Ventures Hackathon Winner** - Won $15k in Anthropic credits, placing first among 100+ participants (almost solo with 1 partner).
 
-<img src="https://github.com/user-attachments/assets/eaf9ddd3-02ee-465b-9288-2c1f80ffdb1d" width="600">
-
 ### [PMX Trade](https://pmx.trade)
 **Founding Engineer / Product Lead** - Currently building next-generation trading infrastructure.
 
