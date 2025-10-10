@@ -2,70 +2,95 @@
 
 <img src="https://github.com/user-attachments/assets/b25fcd3f-8322-4a7a-b7f9-5512e9bf2ceb" width="300" />
 
-currently working on
+**Builder of autonomous systems and AI-powered platforms. Former core developer at elizaOS, now focused on zero-employee companies.**
 
-https://zenith.chat \[Anthropic x Forum Ventures Hackathon Winner\]
+---
 
-https://pmx.trade
+## 🚀 Current Projects
 
-https://dexploy.com
+### [Zenith Chat](https://zenith.chat)
+**🏆 Anthropic x Forum Ventures Hackathon Winner** - Won $15k in Anthropic credits, placing first among 100+ participants (almost solo with 1 partner).
 
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/eaf9ddd3-02ee-465b-9288-2c1f80ffdb1d" width="400" />
+</div>
 
+### [PMX Trade](https://pmx.trade)
+**Founding Engineer / Product Lead** - Currently building next-generation trading infrastructure.
 
-https://github.com/user-attachments/assets/eaf9ddd3-02ee-465b-9288-2c1f80ffdb1d
+### [Dexploy](https://dexploy.com)
+One of my most recent sole creations, focused on deployment automation and infrastructure.
 
+### [0em Labs](https://0emlabs.com)
+Building **inbox0** - the MCP marketplace. Pioneering zero-employee company infrastructure with AI-powered autonomous business operations.
 
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/8e4406be-2364-471f-af41-d2f358ba07d2" width="400" />
+  <img src="https://github.com/user-attachments/assets/64f2a97b-1141-4a7d-98f1-3da70ccd8c1d" width="400" />
+</div>
 
+---
 
-https://0emlabs.com
+## 📦 Previous Work
 
+### [AYO Protocol](https://ayoprotocol.com)
+AI-powered yield staking platform with Agent NEO autonomously managing assets across protocols. Reached 600+ active users at peak with over $20k AUM and $2.5M peak FDV on platform token. *"One of a kind AI powered yield staking platform where our agent analyzes costs, fees, and risk tolerance to optimize your yield."*
 
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/05701132-7388-4996-b5af-f9376eda92c3" width="400" />
+</div>
 
-https://github.com/user-attachments/assets/8e4406be-2364-471f-af41-d2f358ba07d2
+### ModernStoicAI / stoictradingai ([@stoictradingai](https://x.com/stoictradingai))
+Built the **first autonomous trading agent on Solana**. Live-streamed development 15+ hours daily for 2 months, peaking at **70k concurrent viewers** on X. Launched as $stoic token, hitting **$38M FDV**. *"It would execute trades then tweet the SPL token traded, amount invested, reasoning, and blockchain transaction link."* Open-sourced after leaving due to co-founder issues. Project continues as HyperTraderAI.
 
+### elizaOS ([@elizaOS](https://x.com/elizaOS))
+**Core Developer** at the most widely used AI agent framework in Web3 (**17,000+ GitHub stars**). Learned full-stack development across multiple languages. *"Core developer at the most widely used AI agent framework in Web3."*
 
-https://github.com/user-attachments/assets/64f2a97b-1141-4a7d-98f1-3da70ccd8c1d
+### DCUBE
+Founded at 18, ran ecommerce business (OpenBoxEcommerce) generating **$150k+ profit** to pay tuition in full. Later pivoted to AI agents, funded by **Microsoft for Startups** and **UCSD Blackstone LaunchPad**. Built AI consultant/secretary/manager and AI paralegal tools. *"Over nearly 4 years it was net profitable even if all the experiments didn't work out."*
 
+---
 
-prev:
+## 🔬 Research & Open Source
 
-https://ayoprotocol.com
+- **[HyperMamba](https://github.com/affaan-m/HyperMamba)** - Novel algorithm design (MAMBA with a twist) for autonomous trading
+- **[Research Repository](https://github.com/affaan-m/research)** - Various projects in quantitative finance, economics, and ML
+- **[Behavioral_RL](https://github.com/affaan-m/Behavioral_RL)** - Risk-sensitive RL for the Iowa Gambling Task
+- **[Autonomous Solana Trading Bot](https://github.com/affaan-m/stoictradingai)** - Open source autonomous trader
+- **[Sol-Onchain-Analyst](https://github.com/affaan-m/Sol-Onchain-Analyst)** - Solana on-chain analysis tools
+- **[eliza](https://github.com/elizaOS/eliza)** - Contributed as core developer
+- **[rig](https://github.com/0xPlaygrounds/rig)** - Contributed to Rust AI agent framework
 
-https://github.com/user-attachments/assets/05701132-7388-4996-b5af-f9376eda92c3
+**Academic Research:**
+- *Discovering Market Manipulation Using Sentiment Analysis in Microcap Cryptocurrencies* (Presented at UCSD Undergraduate Research Conference 2024)
+- Research Assistant @ UC San Diego Economics Dept + San Diego Supercomputer Center
 
+---
 
+## 🔗 Connect
 
+**Professional:**
+- GitHub: [@affaan-m](https://github.com/affaan-m)
+- LinkedIn: [Affaan Mustafa](https://www.linkedin.com/in/affaanmustafa)
+- X (Twitter): [@affaanmustafa](https://x.com/affaanmustafa)
+- Warpcast: [@affaan](https://warpcast.com/affaan)
+- Telegram: [@affaanmustafa](https://t.me/affaanmustafa)
+- Instagram: [@affaanmustafa](https://www.instagram.com/affaanmustafa)
 
+**Content:**
+- YouTube: [Affaan Mustafa](https://www.youtube.com/@AffaanMustafa)
+- Medium: [@afmustafa](https://medium.com/@afmustafa/about)
 
-## 🔗 Connect & Explore My Work
+**Academic:**
+- [University of Washington (AMATH)](https://amath.washington.edu/people/affaan-mustafa)
+- [ResearchGate](https://www.researchgate.net/profile/Affaan-Mustafa)
+- [UC San Diego Research Lab](https://economics.ucsd.edu/undergraduate-program/resources/undergraduate-graduate-research-lab/undergradras.html)
+- [UC San Diego Research Directory](https://ugresearch.ucsd.edu/students/research-directory.html)
 
-**Professional & Social:**
-*   **GitHub:** [@affaan-m](https://github.com/affaan-m) (You are here!)
-*   **LinkedIn:** [Affaan Mustafa](https://www.linkedin.com/in/affaanmustafa)
-*   **X (Twitter):** [@affaanmustafa](https://x.com/affaanmustafa)
-*   **Warpcast:** [@affaan](https://warpcast.com/affaan)
-*   **Telegram:** [@affaanmustafa](https://t.me/affaanmustafa)
-*   **YouTube:** [Affaan Mustafa](https://www.youtube.com/@AffaanMustafa)
-*   **Instagram:** [@affaanmustafa](https://www.instagram.com/affaanmustafa)
-*   **Medium:** [@afmustafa](https://medium.com/@afmustafa/about)
+**Project Links:**
+- [AYO Protocol Docs](https://ayo-protocol.gitbook.io/docs)
+- [DCUBE @ The Basement UCSD](https://thebasement.ucsd.edu/portfolio/past/2023-2024/dcube.html)
 
-**Academic & Research:**
-*   **ResearchGate:** [Affaan Mustafa Profile](https://www.researchgate.net/profile/Affaan-Mustafa)
-*   **University of Washington (AMATH):** [Affaan Mustafa](https://amath.washington.edu/people/affaan-mustafa)
-*   **UC San Diego (Economics - Research Lab):** [Undergraduate RA Page](https://economics.ucsd.edu/undergraduate-program/resources/undergraduate-graduate-research-lab/undergradras.html) | [Lab Info](https://economics.ucsd.edu/undergraduate-program/resources/undergraduate-graduate-research-lab/index.html)
-*   **UC San Diego (Undergraduate Research):** [Research Directory Listing](https://ugresearch.ucsd.edu/students/research-directory.html) | [URC 2024 Program (PDF)](https://ugresearch.ucsd.edu/_files/urc/URC-2024-Prelim-Program.pdf)
+---
 
-**Projects & Ventures:**
-*   **AYO Protocol:** [Website](https://ayoprotocol.com) | [Documentation](https://ayo-protocol.gitbook.io/docs)
-*   **0em Labs:** [Website](https://0emlabs.com) 
-*   **DCUBE (The Basement UCSD):** [Portfolio Page](https://thebasement.ucsd.edu/portfolio/past/2023-2024/dcube.html)
-*   **(Open Source - Autonomous Solana Trading Bot - @stoictradingAI on X):** [GitHub Repo](https://github.com/affaan-m/stoictradingai)
-*   **(Open Source - Solana Onchain Analyst):** [GitHub Repo](https://github.com/affaan-m/Sol-Onchain-Analyst)
-*   **(Open Source - eliza):** [GitHub Repo](https://github.com/elizaOS/eliza)
-*   **(Open Source - rig):** [GitHub Repo](https://github.com/0xPlaygrounds/rig)
-*   **Research**:  
-  - [HyperMamba Repository](https://github.com/affaan-m/HyperMamba)  
-  - [Research Repository](https://github.com/affaan-m/research)  
-  - [Behavioral_RL Repository](https://github.com/affaan-m/Behavioral_RL)
-
-Let's build something.
+*"If I could pinpoint most of the stress in my life to one thing, it would be the inability to delegate or have people to rely on... the zero employee company idea never left my mind."*
