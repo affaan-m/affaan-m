@@ -8,20 +8,22 @@
 
 ---
 
-## Current Projects
+## Current Position
 
-### [Zenith Chat](https://zenith.chat) (2025)
-**Anthropic x Forum Ventures Hackathon Winner** - Won $15k in Anthropic credits, placing first among 100+ participants (almost solo with 1 partner).
-
-### [PMX Trade](https://pmx.trade) (Apr 2025 - Present)
+### [PMX Trade](https://pmx.trade) (Oct 2025 - Present)
 **Founding Engineer / Product Lead** - Building next-generation trading infrastructure.
 
-### [Dexploy](https://dexploy.com) (2025)
+## Current Projects
+
+### [Zenith Chat](https://zenith.chat) (Sep 2025 - Present)
+**Anthropic x Forum Ventures Hackathon Winner** - Won $15k in Anthropic credits, placing first among 100+ participants (almost solo with 1 partner).
+
+### [Dexploy](https://dexploy.com) (August 2025 - Present)
 Instant tweet-to-coin deploys in under 300ms. One of my most recent solo creations, focused on deployment automation and infrastructure.
 
 [Watch Demo →](https://affaanmustafa.com/videos/dexploy.mp4)
 
-### [0em Labs](https://0emlabs.com) (2024 - Present)
+### [0em Labs](https://0emlabs.com) (March 2025 - Present)
 Building **inbox0** - the MCP marketplace. First true model-agnostic MCP marketplace with servers and models hosted by us. No SaaS—pay per prompt via stablecoins, inference costs estimated upfront. Flexibility for auto-routing or user-selected models via web interface. Pioneering zero-employee company infrastructure with AI-powered autonomous business operations.
 
 [Watch Problem Demo →](https://affaanmustafa.com/videos/inbox_0_problem.mov) | [Watch Solution Demo →](https://affaanmustafa.com/videos/inbox0_demo.mov)
