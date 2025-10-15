@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/b25fcd3f-8322-4a7a-b7f9-5512e9bf2ceb" width="300" />
 
-**Builder of autonomous systems and AI-powered platforms. Former core developer at elizaOS, now focused on zero-employee companies.**
+**one of the pioneers who brough AI agents to crypto - sparked a new meta of building companies live from scratch all on stream - amassed 70k+ live viewers at peak**
 
 **[View Portfolio Website →](https://affaanmustafa.com)**
 
