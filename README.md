@@ -2,6 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/b25fcd3f-8322-4a7a-b7f9-5512e9bf2ceb" width="300" />
 
+<img width="612" height="290" alt="image" src="https://github.com/user-attachments/assets/50c6a956-af36-4eba-a08b-d67a211b3fe7" />
+
 *one of the pioneers who brough AI agents to crypto - sparked a new meta of building companies live from scratch all on stream - amassed 70k+ live viewers at peak*
 
 **[View Portfolio Website →](https://affaanmustafa.com)**
