@@ -10,7 +10,7 @@
 
 ## Current Position
 
-### [PMX Trade](https://pmx.trade) (Oct 2025 - Present)
+### [PMX Trade](https://pmx.trade) (Sep 2025 - Present)
 **Founding Engineer / Product Lead** - Building next-generation trading infrastructure.
 
 ## Current Projects
