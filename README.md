@@ -1,6 +1,6 @@
 # Affaan Mustafa
 
-<img width="1225" height="588" alt="image" src="https://github.com/user-attachments/assets/5ffc9ba5-6436-4fe9-8ba2-75f2cb02900a" />
+<img width="612" height="294" alt="image" src="https://github.com/user-attachments/assets/5ffc9ba5-6436-4fe9-8ba2-75f2cb02900a" />
 
 *one of the pioneers who brough AI agents to crypto - sparked a new meta of building companies live from scratch all on stream - amassed 70k+ live viewers at peak*
 
