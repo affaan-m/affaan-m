@@ -71,7 +71,7 @@ Founded at 18. Dec 2020 - Jun 2023: Ran ecommerce business (OpenBoxEcommerce) on
 
 ### Academic Research
 
-**[ResearchGate Profile](https://www.researchgate.net/profile/Affaan-Mustafa)** - Grad student in Applied/Computational Math at UW (Sep 2024-Dec 2025); undergrad RA in Econ/Math-CS/Business Econ at UCSD (2022-2024).
+**[ResearchGate Profile](https://www.researchgate.net/profile/Affaan-Mustafa)** - Grad student in Applied/Computational Math at UW (Sep 2024-Jan 2025); undergrad RA in Econ/Math-CS/Business Econ at UCSD (2022-2024).
 
 **Publications:**
 - *"Discovering Market Manipulation Through Social Media Sentiment Analysis in Microcap Cryptocurrencies"* (711 reads) - Presented at [UCSD Undergraduate Research Conference 2024](https://ugresearch.ucsd.edu/_files/urc/URC-2024-Prelim-Program.pdf). Preprint analyzing Reddit/Twitter sentiment effects on <$1M market cap cryptos. Literature review on events like 2021 short squeezes, causal inference linking hype/manipulation to volatility.
@@ -89,7 +89,7 @@ Founded at 18. Dec 2020 - Jun 2023: Ran ecommerce business (OpenBoxEcommerce) on
 **Professional:**
 - GitHub: [@affaan-m](https://github.com/affaan-m)
 - LinkedIn: [Affaan Mustafa](https://www.linkedin.com/in/affaanmustafa)
-- X (Twitter): [@affaanmustafa](https://x.com/affaanmustafa) - Streams and posts on dev grinds, 17hr sessions shipping bots live, motorcycle cross-country coding plans, Solana/Avax insights. Peaked 70k concurrent viewers as top dev streamer.
+- X (Twitter): [@affaanmustafa](https://x.com/affaanmustafa) - Guided building marathon streams, sharing everything I've learned in the form of articles and posts, my most active social media and easiest way to reach me.
 - Warpcast: [@affaan](https://warpcast.com/affaan)
 - Telegram: [@affaanmustafa](https://t.me/affaanmustafa)
 - Instagram: [@affaanmustafa](https://www.instagram.com/affaanmustafa)
