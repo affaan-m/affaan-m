@@ -97,7 +97,6 @@ Founded at 18. Dec 2020 - Jun 2023: Ran ecommerce business (OpenBoxEcommerce) on
 **Content:**
 - YouTube: [Affaan Mustafa](https://www.youtube.com/@AffaanMustafa)
 - TikTok: [@affaan](https://tiktok.com/@affaan)
-- Medium: [@afmustafa](https://medium.com/@afmustafa/about)
 
 **Academic:**
 - [University of Washington (AMATH)](https://amath.washington.edu/people/affaan-mustafa)
