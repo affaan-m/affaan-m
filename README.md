@@ -106,9 +106,11 @@ Founded at 18. Dec 2020 - Jun 2023: Ran ecommerce business (OpenBoxEcommerce) on
 - [URC 2024 Program](https://ugresearch.ucsd.edu/_files/urc/URC-2024-Prelim-Program.pdf)
 
 **Project Links:**
-- [AYO Protocol Docs](https://ayo-protocol.gitbook.io/docs)
-- [0em Labs](https://0emlabs.com)
-- [Dexploy](https://dexploy.com)
+- [PMX](https://pmx.trade)
+- [Zenith](https://zenith.chat)
+- [AYO Protocol](https://ayoprotocol.com)
+- [0em Labs](https://0emlabs.com) - Private
+- [Dexploy](https://dexploy.com) - Paused
 - [DCUBE @ The Basement UCSD](https://thebasement.ucsd.edu/portfolio/past/2023-2024/dcube.html)
 
 ---
