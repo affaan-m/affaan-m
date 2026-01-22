@@ -18,6 +18,31 @@ Builder. Writer. 70k peak viewers streaming dev on X.
 
 ---
 
+## Writing
+
+Author of both Claude Code guides — 2.1M+ views combined
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://x.com/affaanmustafa/status/2012378465664745795">
+<img src="assets/shortform_guide.png" alt="The Shorthand Guide to Everything Claude Code" />
+</a>
+</td>
+<td width="50%">
+<a href="https://x.com/affaanmustafa/status/2014040193557471352">
+<img src="assets/longform_guide.png" alt="The Longform Guide to Everything Claude Code" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Shorthand Guide</b><br/>6.1K ❤️ · 2.1M views</td>
+<td align="center"><b>Longform Guide</b><br/>454 ❤️ · 140K views</td>
+</tr>
+</table>
+
+---
+
 ## Highlights
 
 | | |
