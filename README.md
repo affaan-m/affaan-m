@@ -12,22 +12,7 @@ Builder. Writer. 70k peak viewers streaming dev on X.
 
 **Founding Engineer @ [PMX Trade](https://pmx.trade)** — Next-gen trading infrastructure
 
-**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 12,800+ stars. Complete Claude Code configs.
-
----
-
-## Writing
-
-Author of both Claude Code guides — 2.1M+ views combined
-
-<p>
-<a href="https://x.com/affaanmustafa/status/2012378465664745795">
-<img src="assets/shortform_guide.png" width="400" alt="The Shorthand Guide to Everything Claude Code - 6.1K likes, 2.1M views" />
-</a>
-<a href="https://x.com/affaanmustafa/status/2014040193557471352">
-<img src="assets/longform_guide.png" width="400" alt="The Longform Guide to Everything Claude Code - 454 likes, 140K views" />
-</a>
-</p>
+**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 17,800+ stars. Complete Claude Code configs.
 
 ---
 
