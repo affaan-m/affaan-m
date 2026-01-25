@@ -1,4 +1,5 @@
 # Affaan Mustafa
+![Github Stats](https://githubcard.com/affaan-m.svg?d=PZt4CxpA)
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/5ffc9ba5-6436-4fe9-8ba2-75f2cb02900a" />
 
