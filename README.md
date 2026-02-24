@@ -10,7 +10,7 @@ Builder. Writer. 70k peak viewers streaming dev on X.
 
 ## Now
 
-**Co-founder @ [Itô](https://itomarkets.com)** — Structured equity exposure on prediction markets. Co-founded with ex-Goldman quant.
+**Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction market baskets.
 
 **Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 51,000+ stars. The most popular Claude Code resource.
 
@@ -65,7 +65,7 @@ Author of both Claude Code guides — 3M+ views combined.
 | **Ex-PMX Founding Engineer** | Built [pmx.trade](https://pmx.trade) to $250k+ MRR, 6-figure MAU |
 | **elizaOS Core Developer** | Most used AI agent framework in Web3 — 17k+ stars |
 | **First Autonomous Solana Trading Agent** | [@stoictradingai](https://github.com/affaan-m/stoictradingAI) — $2M+ trades, 70k peak live viewers |
-| **Anthropic Hackathon Winner** | [Zenith Chat](https://zenith.chat) — 1st/100+ teams, $15k credits |
+| **Anthropic Hackathon Winner** | [Zenith Chat](https://zenith.chat) — 1st/100+ people, $15k credits |
 | **Published Researcher** | [HyperMamba](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471) — meta-learning for trading |
 | **$150k+ Bootstrapped** | Founded DCUBE at 18, self-funded tuition |
 
