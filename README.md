@@ -45,15 +45,11 @@ Author of both Claude Code guides — 3M+ views combined.
 
 ## Open Source
 
-<a href="https://github.com/affaan-m/everything-claude-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=affaan-m&repo=everything-claude-code&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/affaan-m/agentshield">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=affaan-m&repo=agentshield&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff" />
-</a>
-
 | Repository | What |
 |------------|------|
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 51k+ stars. The Claude Code resource |
+| [agentshield](https://github.com/affaan-m/agentshield) | AI agent config scanner |
+| [openclaw](https://github.com/openclaw/openclaw) | Autonomous AI agent runtime. Runs my ops |
 | [dprc-autotrader-v2](https://github.com/affaan-m/dprc-autotrader-v2) | Autonomous trading agent in Rust |
 | [Sol-Onchain-Analyst](https://github.com/affaan-m/Sol-Onchain-Analyst) | Solana data pipelines → trading alphas |
 | [HyperMamba](https://github.com/affaan-m/HyperMamba) | Hypernetwork-enhanced meta-learning for trading [(Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471) |
