@@ -10,15 +10,17 @@ Builder. Writer. 70k peak viewers streaming dev on X.
 
 ## Now
 
-**Founding Engineer @ [PMX Trade](https://pmx.trade)** — Next-gen trading infrastructure
+**Co-founder @ [Itô](https://ito.finance)** — Permissionless tokenized prediction market infrastructure. Co-founded with ex-Goldman quant.
 
-**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 50,000+ stars. Complete Claude Code configs.
+**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 51,000+ stars. The most popular Claude Code resource.
+
+**Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. Featured at Cerebral Valley x Anthropic.
 
 ---
 
 ## Writing
 
-Author of both Claude Code guides — 3M+ views combined
+Author of both Claude Code guides — 2.1M+ views combined
 
 <table>
 <tr>
@@ -45,12 +47,13 @@ Author of both Claude Code guides — 3M+ views combined
 
 | | |
 |---|---|
-| **elizaOS Core Developer** | Most used AI agent framework in Web3 — 17k+ stars, 5.3k+ forks |
-| **First Autonomous Solana Trading Agent** | [@stoictradingai](https://github.com/affaan-m/stoictradingAI) — $2M+ trades, $38M peak FDV |
-| **70k Concurrent Viewers** | Live-streamed building 15+ hrs/day for 2 months |
+| **51k+ GitHub Stars** | [everything-claude-code](https://github.com/affaan-m/everything-claude-code) — most popular Claude Code resource |
+| **Ex-PMX Founding Engineer** | Built [pmx.trade](https://pmx.trade) to $250k+ MRR, 6-figure MAU |
+| **elizaOS Core Developer** | Most used AI agent framework in Web3 — 17k+ stars |
+| **First Autonomous Solana Trading Agent** | [@stoictradingai](https://github.com/affaan-m/stoictradingAI) — $2M+ trades, 70k peak live viewers |
 | **Anthropic Hackathon Winner** | [Zenith Chat](https://zenith.chat) — 1st/100+ teams, $15k credits |
 | **Published Researcher** | [HyperMamba](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471) — meta-learning for trading |
-| **$150k+ Ecommerce Exit** | Founded DCUBE at 18, self-funded tuition |
+| **$150k+ Bootstrapped** | Founded DCUBE at 18, self-funded tuition |
 
 ---
 
@@ -58,7 +61,8 @@ Author of both Claude Code guides — 3M+ views combined
 
 | Repository | What |
 |------------|------|
-| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | Complete Claude Code configs — agents, skills, hooks, MCPs |
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 51k+ stars. Complete Claude Code configs — agents, skills, hooks, MCPs |
+| [agentshield](https://github.com/affaan-m/agentshield) | AI agent config scanner for Claude Code setups |
 | [dprc-autotrader-v2](https://github.com/affaan-m/dprc-autotrader-v2) | Autonomous trading agent in Rust |
 | [Sol-Onchain-Analyst](https://github.com/affaan-m/Sol-Onchain-Analyst) | Solana data pipelines → trading alphas |
 | [HyperMamba](https://github.com/affaan-m/HyperMamba) | Hypernetwork-enhanced meta-learning for trading |
@@ -66,7 +70,7 @@ Author of both Claude Code guides — 3M+ views combined
 
 ---
 
-[X](https://x.com/affaanmustafa) · [LinkedIn](https://linkedin.com/in/affaanmustafa) · [Telegram](https://t.me/affaanmustafa) · [ResearchGate](https://www.researchgate.net/profile/Affaan-Mustafa) · [YouTube](https://www.youtube.com/@AffaanMustafa)
+[X](https://x.com/affaanmustafa) · [LinkedIn](https://linkedin.com/in/affaanmustafa) · [Bluesky](https://bsky.app/profile/affaan.bsky.social) · [Telegram](https://t.me/affaanmustafa) · [YouTube](https://www.youtube.com/@AffaanMustafa) · [ResearchGate](https://www.researchgate.net/profile/Affaan-Mustafa)
 
 ---
 
