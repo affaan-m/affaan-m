@@ -10,7 +10,7 @@ Builder. Writer. 70k peak viewers streaming dev on X.
 
 ## Now
 
-**Co-founder @ [Itô](https://ito.finance)** — Permissionless tokenized prediction market infrastructure. Co-founded with ex-Goldman quant.
+**Co-founder @ [Itô](https://itomarkets.com)** — Permissionless tokenized prediction market infrastructure. Co-founded with ex-Goldman quant.
 
 **Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 51,000+ stars. The most popular Claude Code resource.
 
