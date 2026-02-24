@@ -87,4 +87,14 @@ Author of both Claude Code guides — 3M+ views combined.
 
 ---
 
-<p align="center"><em>Be cynical about the world, not yourself - build zero-employee companies.</em></p>
+<p align="center"><em>Professional Side Quester (Honorary P.h.D)</em></p>
+
+<p align="center"><em>perpetual cynic on everything but myself</em></p>
+
+<p align="center"><em>post training myself to maximize expected return (serendipitous events) by improving my policy so probability mass collapses onto high-value sequences of actions, with mixed rollouts for exploration</em></p>
+
+<p align="center"><em>attempting zero employee companies</em></p>
+
+<p align="center"><em>escaping the permanent underclass one day at a time</em></p>
+
+<p align="center"><em>the pendulum sways and your mind decays, theyll tug at your mind and attempt to prompt inject your mind with whatever the current psyop is and destroy your cogsec</em></p>
