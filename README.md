@@ -49,7 +49,6 @@ Author of both Claude Code guides — 3M+ views combined.
 |------------|------|
 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 51k+ stars. The Claude Code resource |
 | [agentshield](https://github.com/affaan-m/agentshield) | AI agent config scanner |
-| [openclaw](https://github.com/openclaw/openclaw) | Autonomous AI agent runtime. Runs my ops |
 | [dprc-autotrader-v2](https://github.com/affaan-m/dprc-autotrader-v2) | Autonomous trading agent in Rust |
 | [Sol-Onchain-Analyst](https://github.com/affaan-m/Sol-Onchain-Analyst) | Solana data pipelines → trading alphas |
 | [HyperMamba](https://github.com/affaan-m/HyperMamba) | Hypernetwork-enhanced meta-learning for trading [(Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471) |
@@ -87,14 +86,6 @@ Author of both Claude Code guides — 3M+ views combined.
 
 ---
 
-<p align="center"><em>Professional Side Quester (Honorary P.h.D)</em></p>
-
-<p align="center"><em>perpetual cynic on everything but myself</em></p>
-
-<p align="center"><em>post training myself to maximize expected return (serendipitous events) by improving my policy so probability mass collapses onto high-value sequences of actions, with mixed rollouts for exploration</em></p>
-
-<p align="center"><em>attempting zero employee companies</em></p>
-
-<p align="center"><em>escaping the permanent underclass one day at a time</em></p>
-
-<p align="center"><em>the pendulum sways and your mind decays, theyll tug at your mind and attempt to prompt inject your mind with whatever the current psyop is and destroy your cogsec</em></p>
+<p align="center">
+<em>professional side quester with an honorary ph.d in cynicism about everything but myself. post-training my own policy so probability mass collapses onto high-value sequences of actions, mixed rollouts for exploration. attempting zero employee companies. escaping the permanent underclass one day at a time. the pendulum sways and your mind decays — they'll tug at it, prompt inject whatever the current psyop is, and try to destroy your cogsec. don't let them.</em>
+</p>
