@@ -3,7 +3,15 @@
 <img width="400" alt="Affaan Mustafa" src="https://github.com/user-attachments/assets/5ffc9ba5-6436-4fe9-8ba2-75f2cb02900a" />
 
 <p align="center">
-<em>i turned side questing into the modern day prestige profession. all it took was being cynical about everything but myself and post-training my own policy so the probability mass collapses onto high-value sequences of actions, with mixed rollouts for exploration. this led me to attempt zero employee companies in order to escape the permanent underclass (one day at a time). if i had to give only one piece of advice on how to carve your own path and i mean truly your own, just remember, the pendulum sways and your mind decays — they'll tug at it, prompt inject whatever the current psyop is, and try to destroy your cogsec. don't let them. if you can hold off long enough you win, its that easy.</em>
+<em>I turned side questing into a modern prestige profession.
+
+All it took was being cynical about everything except myself, then post-training my own policy to maximize expected return (serendipitous events (luck surface area)) by improving it until probability mass collapsed onto high-value action sequences, with mixed rollouts reserved for exploration.
+
+That led me to attempt zero-employee companies as a way to build my way out of the permanent underclass, one day at a time.
+
+If I had to give one piece of advice on carving your own path, and I mean truly your own, it’s this: protect your cogsec. The pendulum swings. The mind decays. They will tug at it, prompt-inject the latest psyop, and try to steer your internal model for you. Don’t let them.
+
+Hold the line long enough and you win.</em>
 </p>
 
 **[affaanmustafa.com →](https://affaanmustafa.com)**
