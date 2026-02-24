@@ -10,7 +10,7 @@ Builder. Writer. 70k peak viewers streaming dev on X.
 
 ## Now
 
-**Co-founder @ [Itô](https://itomarkets.com)** — Permissionless tokenized prediction market infrastructure. Co-founded with ex-Goldman quant.
+**Co-founder @ [Itô](https://itomarkets.com)** — Structured equity exposure on prediction markets. Co-founded with ex-Goldman quant.
 
 **Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 51,000+ stars. The most popular Claude Code resource.
 
@@ -20,7 +20,7 @@ Builder. Writer. 70k peak viewers streaming dev on X.
 
 ## Writing
 
-Author of both Claude Code guides — 2.1M+ views combined
+Author of both Claude Code guides — 3M+ views combined.
 
 <table>
 <tr>
@@ -36,10 +36,28 @@ Author of both Claude Code guides — 2.1M+ views combined
 </td>
 </tr>
 <tr>
-<td align="center"><b>Shorthand Guide</b><br/>6.1K ❤️ · 2.1M views</td>
-<td align="center"><b>Longform Guide</b><br/>454 ❤️ · 140K views</td>
+<td align="center"><b>Shorthand Guide</b><br/>7.4K ❤️ · 922 reposts · 2.7M views</td>
+<td align="center"><b>Longform Guide</b><br/>1.2K ❤️ · 157 reposts · 322K views</td>
 </tr>
 </table>
+
+---
+
+## Open Source
+
+<a href="https://github.com/affaan-m/everything-claude-code">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=affaan-m&repo=everything-claude-code&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff" />
+</a>
+<a href="https://github.com/affaan-m/agentshield">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=affaan-m&repo=agentshield&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff" />
+</a>
+
+| Repository | What |
+|------------|------|
+| [dprc-autotrader-v2](https://github.com/affaan-m/dprc-autotrader-v2) | Autonomous trading agent in Rust |
+| [Sol-Onchain-Analyst](https://github.com/affaan-m/Sol-Onchain-Analyst) | Solana data pipelines → trading alphas |
+| [HyperMamba](https://github.com/affaan-m/HyperMamba) | Hypernetwork-enhanced meta-learning for trading [(Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471) |
+| [Behavioral_RL](https://github.com/affaan-m/Behavioral_RL) | RL with behavioral economics biases |
 
 ---
 
@@ -57,21 +75,23 @@ Author of both Claude Code guides — 2.1M+ views combined
 
 ---
 
-## Open Source
+<div align="center">
 
-| Repository | What |
-|------------|------|
-| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 51k+ stars. Complete Claude Code configs — agents, skills, hooks, MCPs |
-| [agentshield](https://github.com/affaan-m/agentshield) | AI agent config scanner for Claude Code setups |
-| [dprc-autotrader-v2](https://github.com/affaan-m/dprc-autotrader-v2) | Autonomous trading agent in Rust |
-| [Sol-Onchain-Analyst](https://github.com/affaan-m/Sol-Onchain-Analyst) | Solana data pipelines → trading alphas |
-| [HyperMamba](https://github.com/affaan-m/HyperMamba) | Hypernetwork-enhanced meta-learning for trading |
-| [Behavioral_RL](https://github.com/affaan-m/Behavioral_RL) | RL with behavioral economics biases |
+<img src="https://github-readme-stats.vercel.app/api?username=affaan-m&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&rank_icon=github" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=affaan-m&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" height="165" />
+
+</div>
 
 ---
 
-[X](https://x.com/affaanmustafa) · [LinkedIn](https://linkedin.com/in/affaanmustafa) · [Bluesky](https://bsky.app/profile/affaan.bsky.social) · [Telegram](https://t.me/affaanmustafa) · [YouTube](https://www.youtube.com/@AffaanMustafa) · [ResearchGate](https://www.researchgate.net/profile/Affaan-Mustafa)
+<div align="center">
+
+[X](https://x.com/affaanmustafa) · [LinkedIn](https://linkedin.com/in/affaanmustafa) · [YouTube](https://www.youtube.com/@AffaanMustafa) · [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7544415) · [Substack](https://affaanmustafa.substack.com)
 
 ---
 
 *"The zero employee company idea never left my mind."*
+
+*"institutionalizing gambling = (Ω, 𝓕, ℙ_α); p = ℙ_α(e=1); y ∈ {0,1}; ∂p/∂α ＞ 0"*
+
+</div>
