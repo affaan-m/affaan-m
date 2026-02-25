@@ -121,7 +121,8 @@ Author of both Claude Code guides — 3M+ views combined.
 </table>
 
 <sub>
-More: <a href="https://github.com/affaan-m/research">research</a> (UCSD/UW-affiliated code + notes), <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471">HyperMamba SSRN paper</a>, <a href="https://www.researchgate.net/profile/Affaan-Mustafa">ResearchGate</a>
+Research / code: <a href="https://github.com/affaan-m/research">research</a>, <a href="https://github.com/affaan-m/econ-research-wi24">econ-research-wi24</a>, <a href="https://github.com/affaan-m/econ-research-ss24">econ-research-ss24</a>, <a href="https://github.com/affaan-m/quranic-arabic-recognition-dl">quranic-arabic-recognition-dl</a>, <a href="https://github.com/affaan-m/supply-chain-ml-optimization">supply-chain-ml-optimization</a>, <a href="https://github.com/affaan-m/market-manipulation-microcap-crypto">market-manipulation-microcap-crypto</a><br />
+Papers / mentions: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471">HyperMamba SSRN paper</a>, <a href="https://www.researchgate.net/profile/Affaan-Mustafa">ResearchGate</a>
 </sub>
 
 ---
@@ -135,7 +136,7 @@ More: <a href="https://github.com/affaan-m/research">research</a> (UCSD/UW-affil
 | **Autonomous Trading Systems** | [@stoictradingai](https://github.com/affaan-m/stoictradingAI) / AYO-adjacent systems moved $2M+ in trades; 70k peak live viewers building in public |
 | **Anthropic Hackathon Winner** | [Zenith Chat](https://zenith.chat) — 1st / 100+ people, $15k credits |
 | **Research / Academia** | 3-degree path across UCSD (graduated with 2 B.S. before I was 20 + UW (dropped out) (B.S. Math-CS, B.S. Business Economics (M.S. into P.h.D track (dropped out) - Applied/Computational Math ): [UCSD Econ Research Lab](https://economics.ucsd.edu/undergraduate-program/resources/undergraduate-graduate-research-lab/index.html), [UW AMATH](https://amath.washington.edu/people/affaan-mustafa), [UCSD URC mention](https://ugresearch.ucsd.edu/students/research-directory.html) |
-| **Research Output** | [HyperMamba (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471), microcap sentiment/manipulation work ([ResearchGate](https://www.researchgate.net/profile/Affaan-Mustafa)), and code in [research](https://github.com/affaan-m/research) / [HyperMamba](https://github.com/affaan-m/HyperMamba) / [Behavioral_RL](https://github.com/affaan-m/Behavioral_RL) |
+| **Research Output** | [HyperMamba (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471), microcap sentiment/manipulation work ([ResearchGate](https://www.researchgate.net/profile/Affaan-Mustafa)), and code in [research](https://github.com/affaan-m/research) / [HyperMamba](https://github.com/affaan-m/HyperMamba) / [Behavioral_RL](https://github.com/affaan-m/Behavioral_RL) / [econ-research-wi24](https://github.com/affaan-m/econ-research-wi24) / [econ-research-ss24](https://github.com/affaan-m/econ-research-ss24) / [quranic-arabic-recognition-dl](https://github.com/affaan-m/quranic-arabic-recognition-dl) / [supply-chain-ml-optimization](https://github.com/affaan-m/supply-chain-ml-optimization) / [market-manipulation-microcap-crypto](https://github.com/affaan-m/market-manipulation-microcap-crypto) |
 | **$150k+ Bootstrapped** | Founded DCUBE at 18 ([UCSD Basement portfolio](https://thebasement.ucsd.edu/portfolio/past/2023-2024/dcube.html)), self-funded tuition |
 
 ---
