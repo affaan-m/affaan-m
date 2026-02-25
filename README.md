@@ -56,84 +56,54 @@ Author of both Claude Code guides — 3M+ views combined.
     <td width="50%" valign="top">
       <a href="https://github.com/affaan-m/everything-claude-code"><b>everything-claude-code</b></a><br />
       <sub>The Claude Code resource</sub><br />
-      <img src="https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&label=stars" alt="everything-claude-code stars" />
-      <img src="https://img.shields.io/github/forks/affaan-m/everything-claude-code?style=flat-square&label=forks" alt="everything-claude-code forks" />
+      <img src="https://img.shields.io/badge/agents-skills-mcps-111827?style=for-the-badge&labelColor=0ea5e9&color=111827" alt="agents skills mcps" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=for-the-badge&label=stars&color=f59e0b" alt="everything-claude-code stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/everything-claude-code?style=for-the-badge&label=forks&color=60a5fa" alt="everything-claude-code forks" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/affaan-m/agentshield"><b>agentshield</b></a><br />
       <sub>AI agent config scanner</sub><br />
-      <img src="https://img.shields.io/github/stars/affaan-m/agentshield?style=flat-square&label=stars" alt="agentshield stars" />
-      <img src="https://img.shields.io/github/forks/affaan-m/agentshield?style=flat-square&label=forks" alt="agentshield forks" />
+      <img src="https://img.shields.io/badge/security-agent%20configs-111827?style=for-the-badge&labelColor=ef4444&color=111827" alt="security agent configs" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/agentshield?style=for-the-badge&label=stars&color=f59e0b" alt="agentshield stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/agentshield?style=for-the-badge&label=forks&color=60a5fa" alt="agentshield forks" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/affaan-m/dprc-autotrader-v2"><b>dprc-autotrader-v2</b></a><br />
       <sub>Autonomous trading agent in Rust</sub><br />
-      <img src="https://img.shields.io/github/stars/affaan-m/dprc-autotrader-v2?style=flat-square&label=stars" alt="dprc-autotrader-v2 stars" />
-      <img src="https://img.shields.io/github/forks/affaan-m/dprc-autotrader-v2?style=flat-square&label=forks" alt="dprc-autotrader-v2 forks" />
+      <img src="https://img.shields.io/badge/rust-autonomous%20trading-111827?style=for-the-badge&labelColor=fb923c&color=111827" alt="rust autonomous trading" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/dprc-autotrader-v2?style=for-the-badge&label=stars&color=f59e0b" alt="dprc-autotrader-v2 stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/dprc-autotrader-v2?style=for-the-badge&label=forks&color=60a5fa" alt="dprc-autotrader-v2 forks" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/affaan-m/Sol-Onchain-Analyst"><b>Sol-Onchain-Analyst</b></a><br />
       <sub>Solana data pipelines → trading alphas</sub><br />
-      <img src="https://img.shields.io/github/stars/affaan-m/Sol-Onchain-Analyst?style=flat-square&label=stars" alt="Sol-Onchain-Analyst stars" />
-      <img src="https://img.shields.io/github/forks/affaan-m/Sol-Onchain-Analyst?style=flat-square&label=forks" alt="Sol-Onchain-Analyst forks" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/affaan-m/HyperMamba"><b>HyperMamba</b></a><br />
-      <sub>Meta-learning for trading · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471">paper</a></sub><br />
-      <img src="https://img.shields.io/github/stars/affaan-m/HyperMamba?style=flat-square&label=stars" alt="HyperMamba stars" />
-      <img src="https://img.shields.io/github/forks/affaan-m/HyperMamba?style=flat-square&label=forks" alt="HyperMamba forks" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/affaan-m/Behavioral_RL"><b>Behavioral_RL</b></a><br />
-      <sub>RL with behavioral economics biases</sub><br />
-      <img src="https://img.shields.io/github/stars/affaan-m/Behavioral_RL?style=flat-square&label=stars" alt="Behavioral_RL stars" />
-      <img src="https://img.shields.io/github/forks/affaan-m/Behavioral_RL?style=flat-square&label=forks" alt="Behavioral_RL forks" />
-    </td>
-  </tr>
-</table>
-
----
-
-## Highlights
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>⭐ 51k+ GitHub Stars</b><br />
-      <sub><a href="https://github.com/affaan-m/everything-claude-code">everything-claude-code</a> became the most popular Claude Code resource.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>📈 Ex-PMX Founding Engineer</b><br />
-      <sub>Built <a href="https://pmx.trade">pmx.trade</a> to $250k+ MRR and 6-figure MAU.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🎥 70k Peak Live Viewers</b><br />
-      <sub>Built the first autonomous Solana trading agent live on stream.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>🏆 Anthropic Hackathon Winner</b><br />
-      <sub><a href="https://zenith.chat">Zenith Chat</a> placed 1st / 100+ people ($15k credits).</sub>
+      <img src="https://img.shields.io/badge/solana-data%20pipelines-111827?style=for-the-badge&labelColor=8b5cf6&color=111827" alt="solana data pipelines" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/Sol-Onchain-Analyst?style=for-the-badge&label=stars&color=f59e0b" alt="Sol-Onchain-Analyst stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/Sol-Onchain-Analyst?style=for-the-badge&label=forks&color=60a5fa" alt="Sol-Onchain-Analyst forks" />
     </td>
   </tr>
 </table>
 
 <sub>
-Also: elizaOS core developer (17k+ star framework) · published researcher (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471">HyperMamba</a>) · $150k+ bootstrapped ecommerce exit at 18
+Research / experiments: <a href="https://github.com/affaan-m/HyperMamba">HyperMamba</a> (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471">paper</a>) · <a href="https://github.com/affaan-m/Behavioral_RL">Behavioral_RL</a>
 </sub>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/affaan-m?style=flat-square&label=GitHub%20followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&label=everything-claude-code%20stars" alt="everything-claude-code stars" />
-  <img src="https://img.shields.io/github/stars/affaan-m/agentshield?style=flat-square&label=AgentShield%20stars" alt="AgentShield stars" />
-</p>
+## Highlights
+
+| Highlight | Detail |
+|---|---|
+| **Ex-PMX Founding Engineer** | Built [pmx.trade](https://pmx.trade) to $250k+ MRR and 6-figure MAU |
+| **elizaOS Core Developer** | Core contributor to the most used AI agent framework in Web3 (17k+ stars) |
+| **First Autonomous Solana Trading Agent** | [@stoictradingai](https://github.com/affaan-m/stoictradingAI) — $2M+ trades, 70k peak live viewers |
+| **Anthropic Hackathon Winner** | [Zenith Chat](https://zenith.chat) — 1st / 100+ people, $15k credits |
+| **Published Researcher** | [HyperMamba](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471) — meta-learning for trading |
+| **$150k+ Bootstrapped** | Founded DCUBE at 18, self-funded tuition |
+
+---
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=affaan-m&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for affaan-m" height="165" />
