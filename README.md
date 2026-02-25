@@ -20,7 +20,7 @@ Hold the line long enough and you win.
 
 **Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction market baskets.
 
-**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 51,000+ stars. The most popular Claude Code resource.
+**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 51,000+ stars. The most popular Claude Code resource. [ecc.tools](https://ecc.tools)
 
 **Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. Featured at Cerebral Valley x Anthropic.
 
@@ -57,7 +57,7 @@ Author of both Claude Code guides — 3M+ views combined.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/affaan-m/everything-claude-code"><b>everything-claude-code</b></a><br />
-      <sub>The Claude Code resource</sub><br />
+      <sub>The Claude Code resource · <a href="https://ecc.tools">ecc.tools</a></sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=agents%20%7C%20skills%20%7C%20mcps&labelColor=0ea5e9&color=111827" alt="focus agents skills mcps" /><br />
       <img src="https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&label=stars&color=f59e0b" alt="everything-claude-code stars" />
       <img src="https://img.shields.io/github/forks/affaan-m/everything-claude-code?style=flat-square&label=forks&color=60a5fa" alt="everything-claude-code forks" />
@@ -132,7 +132,7 @@ Papers / mentions: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 | Highlight | Detail |
 |---|---|
 | **Ex-PMX Founding Engineer** | Built [pmx.trade](https://pmx.trade) to $250k+ MRR and 6-figure MAU |
-| **Open-Source Distribution** | Built [everything-claude-code](https://github.com/affaan-m/everything-claude-code) and contributed to [elizaOS/eliza](https://github.com/elizaOS/eliza) + [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) |
+| **Open-Source Distribution** | Built [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ([ecc.tools](https://ecc.tools)) and contributed to [elizaOS/eliza](https://github.com/elizaOS/eliza) + [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) |
 | **Autonomous Trading Systems** | Built various agentic yield + trading platforms ([@stoictradingai](https://github.com/affaan-m/stoictradingAI) / AYO-era) with $40M+ combined peak FDV; 70k peak live viewers building in public |
 | **Anthropic Hackathon Winner** | [Zenith Chat](https://zenith.chat) — 1st / 100+ people, $15k credits |
 | **Research / Academia** | 3-degree path across UCSD (graduated with 2 B.S. before I was 20 + UW (dropped out) (B.S. Math-CS, B.S. Business Economics (M.S. into P.h.D track (dropped out) - Applied/Computational Math ): [UCSD Econ Research Lab](https://economics.ucsd.edu/undergraduate-program/resources/undergraduate-graduate-research-lab/index.html), [UW AMATH](https://amath.washington.edu/people/affaan-mustafa), [UCSD URC mention](https://ugresearch.ucsd.edu/students/research-directory.html) |
