@@ -70,7 +70,7 @@ Author of the Claude Code guides and the agentic security guide — 3M+ views co
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/affaan-m/agentshield"><b>agentshield</b></a><br />
-      <sub>AI agent config scanner</sub><br />
+      <sub>AI agent security scanner · <a href="https://github.com/marketplace/actions/agentshield-security-scan">GitHub Marketplace</a></sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=security%20%7C%20agent%20configs&labelColor=ef4444&color=111827" alt="focus security agent configs" /><br />
       <img src="https://img.shields.io/github/stars/affaan-m/agentshield?style=flat-square&label=stars&color=f59e0b" alt="agentshield stars" />
       <img src="https://img.shields.io/github/forks/affaan-m/agentshield?style=flat-square&label=forks&color=60a5fa" alt="agentshield forks" />
@@ -78,50 +78,34 @@ Author of the Claude Code guides and the agentic security guide — 3M+ views co
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/elizaOS/eliza"><b>elizaOS / eliza</b></a><br />
-      <sub>Core contributor · autonomous agent platform (TypeScript)</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=role&message=core%20contributor&labelColor=14b8a6&color=111827" alt="role core contributor" /><br />
-      <img src="https://img.shields.io/github/stars/elizaOS/eliza?style=flat-square&label=stars&color=f59e0b" alt="eliza stars" />
-      <img src="https://img.shields.io/github/forks/elizaOS/eliza?style=flat-square&label=forks&color=60a5fa" alt="eliza forks" />
+      <a href="https://github.com/affaan-m/JARVIS"><b>JARVIS</b></a><br />
+      <sub>Real-time OSINT via autonomous web scraping + Meta Ray-Ban glasses</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=osint%20%7C%20agentic%20scraping&labelColor=22c55e&color=111827" alt="focus osint agentic scraping" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/JARVIS?style=flat-square&label=stars&color=f59e0b" alt="JARVIS stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/JARVIS?style=flat-square&label=forks&color=60a5fa" alt="JARVIS forks" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/0xPlaygrounds/rig"><b>0xPlaygrounds / rig</b></a><br />
-      <sub>Contributor · modular LLM apps (Rust)</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=role&message=contributor&labelColor=14b8a6&color=111827" alt="role contributor" /><br />
-      <img src="https://img.shields.io/github/stars/0xPlaygrounds/rig?style=flat-square&label=stars&color=f59e0b" alt="rig stars" />
-      <img src="https://img.shields.io/github/forks/0xPlaygrounds/rig?style=flat-square&label=forks&color=60a5fa" alt="rig forks" />
+      <a href="https://github.com/affaan-m/claude-swarm"><b>claude-swarm</b></a><br />
+      <sub>Multi-agent orchestration for Claude Code · standalone tool</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=multi-agent%20%7C%20orchestration&labelColor=a855f7&color=111827" alt="focus multi-agent orchestration" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/claude-swarm?style=flat-square&label=stars&color=f59e0b" alt="claude-swarm stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/claude-swarm?style=flat-square&label=forks&color=60a5fa" alt="claude-swarm forks" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/affaan-m/dprc-autotrader-v2"><b>dprc-autotrader-v2</b></a><br />
-      <sub>Autonomous trading agent in Rust</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=rust%20%7C%20autonomous%20trading&labelColor=fb923c&color=111827" alt="focus rust autonomous trading" /><br />
-      <img src="https://img.shields.io/github/stars/affaan-m/dprc-autotrader-v2?style=flat-square&label=stars&color=f59e0b" alt="dprc-autotrader-v2 stars" />
-      <img src="https://img.shields.io/github/forks/affaan-m/dprc-autotrader-v2?style=flat-square&label=forks&color=60a5fa" alt="dprc-autotrader-v2 forks" />
+      <a href="https://github.com/affaan-m/stoictradingAI"><b>stoictradingAI</b></a><br />
+      <sub>First autonomous trading agent on Solana · 70k peak live viewers</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=autonomous%20trading%20%7C%20solana&labelColor=fb923c&color=111827" alt="focus autonomous trading solana" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/stoictradingAI?style=flat-square&label=stars&color=f59e0b" alt="stoictradingAI stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/stoictradingAI?style=flat-square&label=forks&color=60a5fa" alt="stoictradingAI forks" />
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/affaan-m/Sol-Onchain-Analyst"><b>Sol-Onchain-Analyst</b></a><br />
-      <sub>Solana data pipelines → trading alphas</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=solana%20%7C%20alpha%20pipelines&labelColor=8b5cf6&color=111827" alt="focus solana alpha pipelines" /><br />
-      <img src="https://img.shields.io/github/stars/affaan-m/Sol-Onchain-Analyst?style=flat-square&label=stars&color=f59e0b" alt="Sol-Onchain-Analyst stars" />
-      <img src="https://img.shields.io/github/forks/affaan-m/Sol-Onchain-Analyst?style=flat-square&label=forks&color=60a5fa" alt="Sol-Onchain-Analyst forks" />
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/affaan-m/HyperMamba"><b>HyperMamba</b></a><br />
-      <sub>Proprietary R&amp;D · hypernetworks + meta-learning for trading</sub><br />
+      <sub>Hypernetworks + meta-learning for trading · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471">SSRN paper</a></sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=research%20%7C%20meta-learning&labelColor=a855f7&color=111827" alt="focus research meta-learning" /><br />
       <img src="https://img.shields.io/github/stars/affaan-m/HyperMamba?style=flat-square&label=stars&color=f59e0b" alt="HyperMamba stars" />
       <img src="https://img.shields.io/github/forks/affaan-m/HyperMamba?style=flat-square&label=forks&color=60a5fa" alt="HyperMamba forks" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/affaan-m/Behavioral_RL"><b>Behavioral_RL</b></a><br />
-      <sub>RL with behavioral econ biases (CVaR / Prospect Theory)</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=rl%20%7C%20behavioral%20econ&labelColor=ec4899&color=111827" alt="focus rl behavioral econ" /><br />
-      <img src="https://img.shields.io/github/stars/affaan-m/Behavioral_RL?style=flat-square&label=stars&color=f59e0b" alt="Behavioral_RL stars" />
-      <img src="https://img.shields.io/github/forks/affaan-m/Behavioral_RL?style=flat-square&label=forks&color=60a5fa" alt="Behavioral_RL forks" />
     </td>
   </tr>
 </table>
