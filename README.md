@@ -18,11 +18,11 @@ Hold the line long enough and you win.
 
 ## Now
 
-**Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction market baskets.
+**Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction market baskets. Co-founded with Alejandro.
 
-**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 97,000+ stars. The most popular Claude Code resource. [ecc.tools](https://ecc.tools)
+**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 97K+ stars. The most popular Claude Code resource. [ecc.tools](https://ecc.tools)
 
-**Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. 1,609 tests, 98% coverage. Featured at Cerebral Valley x Anthropic. [GitHub Marketplace →](https://github.com/marketplace/actions/agentshield-security-scan)
+**Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. 1,609 tests, v1.4.0. Featured at Cerebral Valley x Anthropic.
 
 ---
 
@@ -43,7 +43,7 @@ Author of the Claude Code guides and the agentic security guide — 3M+ views co
       </a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/affaan-m/everything-claude-code/blob/main/the-security-guide.md">
+      <a href="https://x.com/affaanmustafa/status/2033263813387223421">
         <img width="100%" src="assets/shortform_guide.png" alt="The Shorthand Guide to Everything Agentic Security" />
       </a>
     </td>
