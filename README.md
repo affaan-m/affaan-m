@@ -20,32 +20,38 @@ Hold the line long enough and you win.
 
 **Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction market baskets.
 
-**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 51,000+ stars. The most popular Claude Code resource. [ecc.tools](https://ecc.tools)
+**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 97,000+ stars. The most popular Claude Code resource. [ecc.tools](https://ecc.tools)
 
-**Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. Featured at Cerebral Valley x Anthropic.
+**Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. 1,609 tests, 98% coverage. Featured at Cerebral Valley x Anthropic. [GitHub Marketplace →](https://github.com/marketplace/actions/agentshield-security-scan)
 
 ---
 
 ## Writing
 
-Author of both Claude Code guides — 3M+ views combined.
+Author of the Claude Code guides and the agentic security guide — 3M+ views combined.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://x.com/affaanmustafa/status/2012378465664745795">
         <img width="100%" src="assets/shortform_guide.png" alt="The Shorthand Guide to Everything Claude Code" />
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://x.com/affaanmustafa/status/2014040193557471352">
         <img width="100%" src="assets/longform_guide.png" alt="The Longform Guide to Everything Claude Code" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/affaan-m/everything-claude-code/blob/main/the-security-guide.md">
+        <img width="100%" src="assets/shortform_guide.png" alt="The Shorthand Guide to Everything Agentic Security" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Shorthand Guide</b><br />7.4K ❤️ · 922 reposts · 2.7M views</td>
     <td align="center"><b>Longform Guide</b><br />1.2K ❤️ · 157 reposts · 322K views</td>
+    <td align="center"><b>Security Guide</b><br />Agentic security from first principles</td>
   </tr>
 </table>
 
