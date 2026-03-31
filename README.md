@@ -18,9 +18,9 @@ Hold the line long enough and you win.
 
 ## Now
 
-**Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction market baskets. Co-founded with Alejandro.
+**Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction market baskets.
 
-**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 97K+ stars. The most popular Claude Code resource. [ecc.tools](https://ecc.tools)
+**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 120K+ stars. The most popular resource for Agent Harnesses. [ecc.tools](https://ecc.tools)
 
 **Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. 1,609 tests, v1.4.0. Featured at Cerebral Valley x Anthropic.
 
@@ -28,7 +28,7 @@ Hold the line long enough and you win.
 
 ## Writing
 
-Author of the Claude Code guides and the agentic security guide — 3M+ views combined.
+Author of the Claude Code guides and the agentic security guide — 5M+ views combined, 25M+ impressions across socials.
 
 <table>
   <tr>
