@@ -49,9 +49,9 @@ Author of the Claude Code guides and the agentic security guide — 3M+ views co
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Shorthand Guide</b><br />7.4K ❤️ · 922 reposts · 2.7M views</td>
-    <td align="center"><b>Longform Guide</b><br />1.2K ❤️ · 157 reposts · 322K views</td>
-    <td align="center"><b>Security Guide</b><br />Agentic security from first principles</td>
+    <td align="center"><b>Shorthand Guide</b><br />9.8K likes · 1.2k reposts · 4.1M views</td>
+    <td align="center"><b>Longform Guide</b><br />1.2K likes · 241 reposts · 459K views</td>
+    <td align="center"><b>Security Guide</b><br />201 likes · 30 reposts · 54k views</td>
   </tr>
 </table>
 
@@ -63,7 +63,7 @@ Author of the Claude Code guides and the agentic security guide — 3M+ views co
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/affaan-m/everything-claude-code"><b>everything-claude-code</b></a><br />
-      <sub>The Claude Code resource · <a href="https://ecc.tools">ecc.tools</a></sub><br />
+      <sub>The Agent Harness resource · <a href="https://ecc.tools">ecc.tools</a></sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=agents%20%7C%20skills%20%7C%20mcps&labelColor=0ea5e9&color=111827" alt="focus agents skills mcps" /><br />
       <img src="https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&label=stars&color=f59e0b" alt="everything-claude-code stars" />
       <img src="https://img.shields.io/github/forks/affaan-m/everything-claude-code?style=flat-square&label=forks&color=60a5fa" alt="everything-claude-code forks" />
