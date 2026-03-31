@@ -44,7 +44,7 @@ Author of the Claude Code guides and the agentic security guide — 3M+ views co
     </td>
     <td width="33%" valign="top">
       <a href="https://x.com/affaanmustafa/status/2033263813387223421">
-        <img width="100%" src="assets/shortform_guide.png" alt="The Shorthand Guide to Everything Agentic Security" />
+        <img width="100%" src="https://github.com/user-attachments/assets/5730712f-3454-4477-8182-7c858f30eb08" alt="The Shorthand Guide to Everything Agentic Security" />
       </a>
     </td>
   </tr>
