@@ -18,11 +18,13 @@ Hold the line long enough and you win.
 
 ## Now
 
-**Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction market baskets.
+**Creator of [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)** — 182K+ stars. The most popular open agent-harness ecosystem. Now also a hosted GitHub App with private-repo support, paid tier from $19/mo. [ecc.tools](https://ecc.tools) · [sponsor](https://github.com/sponsors/affaan-m)
 
-**Creator of [everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — 120K+ stars. The most popular resource for Agent Harnesses. [ecc.tools](https://ecc.tools)
+**Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. 638 stars, 1,609 tests, v1.4.0. Featured at Cerebral Valley × Anthropic.
 
-**Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. 1,609 tests, v1.4.0. Featured at Cerebral Valley x Anthropic.
+**Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction-market baskets for liquid funds and family offices. Distribution and partnership inbound: [me@affaanmustafa.com](mailto:me@affaanmustafa.com).
+
+**Available for consulting** — ECC enterprise rollout, agent-harness performance, security review. [ecc.tools/pricing](https://ecc.tools/pricing) · DM [@affaanmustafa](https://x.com/affaanmustafa).
 
 ---
 
