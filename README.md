@@ -22,7 +22,7 @@ Hold the line long enough and you win.
 
 **Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. 638 stars, 1,609 tests, v1.4.0. Featured at Cerebral Valley × Anthropic.
 
-**Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction-market baskets for liquid funds and family offices. Distribution and partnership inbound: [me@affaanmustafa.com](mailto:me@affaanmustafa.com).
+**Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction-market baskets for liquid funds and family offices. Distribution and partnership inbound: [affaan@itomarkets.com](mailto:affaan@itomarkets.com).
 
 **Available for consulting** — ECC enterprise rollout, agent-harness performance, security review. [ecc.tools/pricing](https://ecc.tools/pricing) · DM [@affaanmustafa](https://x.com/affaanmustafa).
 
