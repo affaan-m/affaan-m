@@ -18,13 +18,13 @@ Hold the line long enough and you win.
 
 ## Now
 
-**Creator of [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)** — 182K+ stars. The most popular open agent-harness ecosystem. Now also a hosted GitHub App with private-repo support, paid tier from $19/mo. [ecc.tools](https://ecc.tools) · [sponsor](https://github.com/sponsors/affaan-m)
+**Creator of [ECC](https://github.com/affaan-m/ECC)** — 212K+ stars. The most popular open agent-harness ecosystem. Now also a hosted GitHub App with private-repo support, paid tier from $19/mo. [ecc.tools](https://ecc.tools) · [sponsor](https://github.com/sponsors/affaan-m)
 
 **Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. 638 stars, 1,609 tests, v1.4.0. Featured at Cerebral Valley × Anthropic.
 
 **Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction-market baskets for liquid funds and family offices. Distribution and partnership inbound: [affaan@itomarkets.com](mailto:affaan@itomarkets.com).
 
-**Available for consulting** — ECC enterprise rollout, agent-harness performance, security review. [ecc.tools/pricing](https://ecc.tools/pricing) · DM [@affaanmustafa](https://x.com/affaanmustafa).
+**Available for consulting** — ECC enterprise rollout, agent-harness performance, security review. [ecc.tools/pricing](https://ecc.tools/pricing) · DM [@affaan](https://x.com/affaan).
 
 ---
 
@@ -35,17 +35,17 @@ Author of the Claude Code guides and the agentic security guide — 5M+ views co
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://x.com/affaanmustafa/status/2012378465664745795">
-        <img width="100%" src="assets/shortform_guide.png" alt="The Shorthand Guide to Everything Claude Code" />
+      <a href="https://x.com/affaan/status/2012378465664745795">
+        <img width="100%" src="assets/shortform_guide.png" alt="The Shorthand Guide to ECC" />
       </a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://x.com/affaanmustafa/status/2014040193557471352">
-        <img width="100%" src="assets/longform_guide.png" alt="The Longform Guide to Everything Claude Code" />
+      <a href="https://x.com/affaan/status/2014040193557471352">
+        <img width="100%" src="assets/longform_guide.png" alt="The Longform Guide to ECC" />
       </a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://x.com/affaanmustafa/status/2033263813387223421">
+      <a href="https://x.com/affaan/status/2033263813387223421">
         <img width="100%" src="https://github.com/user-attachments/assets/5730712f-3454-4477-8182-7c858f30eb08" alt="The Shorthand Guide to Everything Agentic Security" />
       </a>
     </td>
@@ -64,10 +64,10 @@ Author of the Claude Code guides and the agentic security guide — 5M+ views co
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/affaan-m/everything-claude-code"><b>everything-claude-code</b></a><br />
+      <a href="https://github.com/affaan-m/ECC"><b>ECC</b></a><br />
       <sub>The Agent Harness resource · <a href="https://ecc.tools">ecc.tools</a></sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=agents%20%7C%20skills%20%7C%20mcps&labelColor=0ea5e9&color=111827" alt="focus agents skills mcps" /><br />
-      <img src="https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&label=stars&color=f59e0b" alt="everything-claude-code stars" />
+      <img src="https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&label=stars&color=f59e0b" alt="ECC stars" />
       <img src="https://img.shields.io/github/forks/affaan-m/everything-claude-code?style=flat-square&label=forks&color=60a5fa" alt="everything-claude-code forks" />
     </td>
     <td width="50%" valign="top">
@@ -124,7 +124,7 @@ Papers / mentions: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 | Highlight | Detail |
 |---|---|
 | **Ex-PMX Founding Engineer** | Built [pmx.trade](https://pmx.trade) to $250k+ MRR and 6-figure MAU |
-| **Open-Source Distribution** | Built [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ([ecc.tools](https://ecc.tools)) and contributed to [elizaOS/eliza](https://github.com/elizaOS/eliza) + [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) |
+| **Open-Source Distribution** | Built [everything-claude-code](https://github.com/affaan-m/ECC) ([ecc.tools](https://ecc.tools)) and contributed to [elizaOS/eliza](https://github.com/elizaOS/eliza) + [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) |
 | **Autonomous Trading Systems** | Built various agentic yield + trading platforms ([@stoictradingai on X](https://x.com/stoictradingai) / [repo](https://github.com/affaan-m/stoictradingAI) / AYO-era) with $40M+ combined peak FDV; 70k peak live viewers building in public |
 | **Anthropic Hackathon Winner** | [Zenith Chat](https://zenith.chat) — 1st / 100+ people, $15k credits |
 | **Research / Academia** | 3-degree path across UCSD (graduated with 2 B.S. before I was 20 + UW (dropped out) (B.S. Math-CS, B.S. Business Economics (M.S. into P.h.D track (dropped out) - Applied/Computational Math ): [UCSD Econ Research Lab](https://economics.ucsd.edu/undergraduate-program/resources/undergraduate-graduate-research-lab/index.html), [UW AMATH](https://amath.washington.edu/people/affaan-mustafa), [UCSD URC mention](https://ugresearch.ucsd.edu/students/research-directory.html) |
@@ -140,7 +140,7 @@ Papers / mentions: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 ---
 
 <p align="center">
-  <a href="https://x.com/affaanmustafa">X</a> ·
+  <a href="https://x.com/affaan">X</a> ·
   <a href="https://linkedin.com/in/affaanmustafa">LinkedIn</a> ·
   <a href="https://www.youtube.com/@AffaanMustafa">YouTube</a> ·
   <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7544415">SSRN</a> ·
