@@ -18,19 +18,27 @@ Hold the line long enough and you win.
 
 ## Now
 
-**Creator of [ECC](https://github.com/affaan-m/ECC)** — 212K+ stars. The most popular open agent-harness ecosystem. Now also a hosted GitHub App with private-repo support, paid tier from $19/mo. [ecc.tools](https://ecc.tools) · [sponsor](https://github.com/sponsors/affaan-m)
+**Co-founder @ [Itô Markets](https://itomarkets.com)**: a fixed-rate GPU compute desk, wired into ECC. Lock a GPU-hour price for 30 to 365 days, we hedge the other side. ECC is the distribution: agents find, price, and reserve compute from inside the harness instead of a sales call. First fixed-rate contracts are live. Compute inbound: [affaan@itomarkets.com](mailto:affaan@itomarkets.com).
 
-**Creator of [AgentShield](https://github.com/affaan-m/agentshield)** — AI agent config scanner. 638 stars, 1,609 tests, v1.4.0. Featured at Cerebral Valley × Anthropic.
+**Creator of [ECC](https://github.com/affaan-m/ECC)**: the most-starred open-source agent toolkit on GitHub. 212K+ stars, ~10k weekly downloads. Also a hosted GitHub App with private-repo support, paid tier from $19/mo. [ecc.tools](https://ecc.tools)
 
-**Co-founder @ [Itô](https://itomarkets.com)** — Structured prediction-market baskets for liquid funds and family offices. Distribution and partnership inbound: [affaan@itomarkets.com](mailto:affaan@itomarkets.com).
+**The `ito` compute CLI**: rent compute without leaving your agent.
 
-**Available for consulting** — ECC enterprise rollout, agent-harness performance, security review. [ecc.tools/pricing](https://ecc.tools/pricing) · DM [@affaan](https://x.com/affaan).
+```bash
+ito find --gpu h200 --count 8 --days 3   # fixed-rate quotes on live capacity
+ito lock <quote-id>                      # rate locked, block reserved
+ito run --cluster <id> -- train.sh       # kick the job at the cluster
+```
+
+Ships on npm as `ito-compute-cli` (coming soon). Lives in [ito-cloud-runtime](https://github.com/Ito-Markets/ito-cloud-runtime).
+
+**Consulting**: ECC enterprise rollout, agent-harness performance, security review. [ecc.tools/pricing](https://ecc.tools/pricing) · DM [@affaan](https://x.com/affaan)
 
 ---
 
 ## Writing
 
-Author of the Claude Code guides and the agentic security guide — 5M+ views combined, 25M+ impressions across socials.
+Author of the Claude Code guides and the agentic security guide: 5M+ views combined, 25M+ impressions across socials.
 
 <table>
   <tr>
@@ -68,11 +76,11 @@ Author of the Claude Code guides and the agentic security guide — 5M+ views co
       <sub>The Agent Harness resource · <a href="https://ecc.tools">ecc.tools</a></sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=agents%20%7C%20skills%20%7C%20mcps&labelColor=0ea5e9&color=111827" alt="focus agents skills mcps" /><br />
       <img src="https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&label=stars&color=f59e0b" alt="ECC stars" />
-      <img src="https://img.shields.io/github/forks/affaan-m/everything-claude-code?style=flat-square&label=forks&color=60a5fa" alt="everything-claude-code forks" />
+      <img src="https://img.shields.io/github/forks/affaan-m/ECC?style=flat-square&label=forks&color=60a5fa" alt="ECC forks" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/affaan-m/agentshield"><b>agentshield</b></a><br />
-      <sub>AI agent security scanner · <a href="https://github.com/marketplace/actions/agentshield-security-scan">GitHub Marketplace</a></sub><br />
+      <sub>AI agent security scanner · 1,609 tests · Cerebral Valley × Anthropic · <a href="https://github.com/marketplace/actions/agentshield-security-scan">GitHub Marketplace</a></sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=security%20%7C%20agent%20configs&labelColor=ef4444&color=111827" alt="focus security agent configs" /><br />
       <img src="https://img.shields.io/github/stars/affaan-m/agentshield?style=flat-square&label=stars&color=f59e0b" alt="agentshield stars" />
       <img src="https://img.shields.io/github/forks/affaan-m/agentshield?style=flat-square&label=forks&color=60a5fa" alt="agentshield forks" />
@@ -124,12 +132,18 @@ Papers / mentions: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 | Highlight | Detail |
 |---|---|
 | **Ex-PMX Founding Engineer** | Built [pmx.trade](https://pmx.trade) to $250k+ MRR and 6-figure MAU |
-| **Open-Source Distribution** | Built [everything-claude-code](https://github.com/affaan-m/ECC) ([ecc.tools](https://ecc.tools)) and contributed to [elizaOS/eliza](https://github.com/elizaOS/eliza) + [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) |
+| **Open-Source Distribution** | Built [ECC](https://github.com/affaan-m/ECC) ([ecc.tools](https://ecc.tools)) and contributed to [elizaOS/eliza](https://github.com/elizaOS/eliza) + [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) |
 | **Autonomous Trading Systems** | Built various agentic yield + trading platforms ([@stoictradingai on X](https://x.com/stoictradingai) / [repo](https://github.com/affaan-m/stoictradingAI) / AYO-era) with $40M+ combined peak FDV; 70k peak live viewers building in public |
-| **Anthropic Hackathon Winner** | [Zenith Chat](https://zenith.chat) — 1st / 100+ people, $15k credits |
+| **Anthropic Hackathon Winner** | [Zenith Chat](https://zenith.chat): 1st / 100+ people, $15k credits |
 | **Research / Academia** | 3-degree path across UCSD (graduated with 2 B.S. before I was 20 + UW (dropped out) (B.S. Math-CS, B.S. Business Economics (M.S. into P.h.D track (dropped out) - Applied/Computational Math ): [UCSD Econ Research Lab](https://economics.ucsd.edu/undergraduate-program/resources/undergraduate-graduate-research-lab/index.html), [UW AMATH](https://amath.washington.edu/people/affaan-mustafa), [UCSD URC mention](https://ugresearch.ucsd.edu/students/research-directory.html) |
 | **Research Output** | [HyperMamba (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471), microcap sentiment/manipulation work ([ResearchGate](https://www.researchgate.net/profile/Affaan-Mustafa)), and code in [research](https://github.com/affaan-m/research) / [HyperMamba](https://github.com/affaan-m/HyperMamba) / [Behavioral_RL](https://github.com/affaan-m/Behavioral_RL) / [econ-research-wi24](https://github.com/affaan-m/econ-research-wi24) / [econ-research-ss24](https://github.com/affaan-m/econ-research-ss24) / [quranic-arabic-recognition-dl](https://github.com/affaan-m/quranic-arabic-recognition-dl) / [supply-chain-ml-optimization](https://github.com/affaan-m/supply-chain-ml-optimization) / [market-manipulation-microcap-crypto](https://github.com/affaan-m/market-manipulation-microcap-crypto) |
 | **$150k+ Bootstrapped** | Founded DCUBE at 18 ([UCSD Basement portfolio](https://thebasement.ucsd.edu/portfolio/past/2023-2024/dcube.html)), self-funded tuition |
+
+---
+
+## Sponsors
+
+If ECC or the compute desk tooling saves you time, [sponsor the work](https://github.com/sponsors/affaan-m). Sponsorship funds ECC maintenance and the open agent-compute tooling around the fixed-rate desk. Current sponsors get named in the ECC README.
 
 ---
 
