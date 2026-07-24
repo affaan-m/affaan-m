@@ -18,7 +18,7 @@ Hold the line long enough and you win.
 
 ## Now
 
-**Co-founder @ [Itô Markets](https://itomarkets.com)**: a fixed-rate GPU compute desk, wired into ECC. Lock a GPU-hour price for 30 to 365 days, we hedge the other side. ECC is the distribution: agents find, price, and reserve compute from inside the harness instead of a sales call. First fixed-rate contracts are live. Compute inbound: [affaan@itomarkets.com](mailto:affaan@itomarkets.com).
+**Co-founder @ [Itô Markets](https://itomarkets.com)**: the agentic OTC desk for compute, the risk transfer layer for AI infrastructure. Lock a GPU-hour price for 30 to 365 days, we source, hedge, and deliver the other side. ECC is the distribution: agents find, price, and reserve compute from inside the harness instead of a sales call. First fixed-rate contracts are live. Compute inbound: [affaan@itomarkets.com](mailto:affaan@itomarkets.com).
 
 **Creator of [ECC](https://github.com/affaan-m/ECC)**: the most-starred open-source agent toolkit on GitHub. 212K+ stars, ~10k weekly downloads. Also a hosted GitHub App with private-repo support, paid tier from $19/mo. [ecc.tools](https://ecc.tools)
 
@@ -30,7 +30,7 @@ ito lock <quote-id>                      # rate locked, block reserved
 ito run --cluster <id> -- train.sh       # kick the job at the cluster
 ```
 
-Ships on npm as `ito-compute-cli` (coming soon). Lives in [ito-cloud-runtime](https://github.com/Ito-Markets/ito-cloud-runtime).
+Ships on npm as `ito-compute-cli` (coming soon).
 
 **Consulting**: ECC enterprise rollout, agent-harness performance, security review. [ecc.tools/pricing](https://ecc.tools/pricing) · DM [@affaan](https://x.com/affaan)
 
