@@ -1,0 +1,165 @@
+# Affaan Mustafa
+
+<p align="center">
+  <img width="400" alt="Affaan Mustafa" src="https://github.com/user-attachments/assets/5ffc9ba5-6436-4fe9-8ba2-75f2cb02900a" />
+</p>
+
+<p align="center"><sub><em>
+I turned side questing into a modern prestige profession.<br />
+All it took was being cynical about everything except myself, then post-training my own policy to maximize expected return (serendipitous events (luck surface area)) by improving it until probability mass collapsed onto high-value action sequences, with mixed rollouts reserved for exploration.<br />
+That led me to attempt zero-employee companies as a way to build my way out of the permanent underclass, one day at a time.<br />
+If I had to give one piece of advice on carving your own path, and I mean truly your own, it’s this: protect your cogsec. The pendulum swings. The mind decays. They will tug at it, prompt-inject the latest psyop, and try to steer your internal model for you. Don’t let them.<br />
+Hold the line long enough and you win.
+</em></sub></p>
+
+**[affaanmustafa.com →](https://affaanmustafa.com)**
+
+---
+
+## Now
+
+compute markets<br>
+﹂**Compute Trading Lead @ Jump Trading**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂reporting directly to the CIO<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂leading the compute trading division<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂compute marketplace inbound: [amustafa@jumptrading.com](mailto:amustafa@jumptrading.com)<br>
+﹂**Founded [The Agentic Desk for Compute](https://itomarkets.com) (Itô, ALL17, acq.)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂Fixed-rate GPU capacity, any cluster, any dates, with reserve options and hedges priced in
+
+open source<br>
+﹂**Creator of [ECC](https://github.com/affaan-m/ECC)**: built at 22. the fastest growing agentic engineering toolkit of all time<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂100k stars in 2 months. 272k+ now, #16 most starred repo on GitHub<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂used by engineers at Tesla, xAI, Amazon, ByteDance, Skydio, GoDaddy<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂flown out to China to speak at ByteDance. technical talks at Skydio<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂hosted GitHub App with private-repo support, paid tier from $19/mo · [ecc.tools](https://ecc.tools)
+
+**Consulting**: ECC enterprise rollout, agent-harness performance, security review. [ecc.tools/pricing](https://ecc.tools/pricing) · DM [@affaan](https://x.com/affaan)
+
+---
+
+## Writing
+
+Author of the Claude Code guides and the agentic security guide: 5M+ views combined, 25M+ impressions across socials.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://x.com/affaan/status/2012378465664745795">
+        <img width="100%" src="assets/shortform_guide.png" alt="The Shorthand Guide to ECC" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://x.com/affaan/status/2014040193557471352">
+        <img width="100%" src="assets/longform_guide.png" alt="The Longform Guide to ECC" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://x.com/affaan/status/2033263813387223421">
+        <img width="100%" src="https://github.com/user-attachments/assets/5730712f-3454-4477-8182-7c858f30eb08" alt="The Shorthand Guide to Everything Agentic Security" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Shorthand Guide</b><br />9.8K likes · 1.2k reposts · 4.1M views</td>
+    <td align="center"><b>Longform Guide</b><br />1.2K likes · 241 reposts · 459K views</td>
+    <td align="center"><b>Security Guide</b><br />201 likes · 30 reposts · 54k views</td>
+  </tr>
+</table>
+
+---
+
+## Open Source
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/affaan-m/ECC"><b>ECC</b></a><br />
+      <sub>The Agent Harness resource · <a href="https://ecc.tools">ecc.tools</a></sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=agents%20%7C%20skills%20%7C%20mcps&labelColor=0ea5e9&color=111827" alt="focus agents skills mcps" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&label=stars&color=f59e0b" alt="ECC stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/ECC?style=flat-square&label=forks&color=60a5fa" alt="ECC forks" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/affaan-m/agentshield"><b>agentshield</b></a><br />
+      <sub>AI agent security scanner · 1,609 tests · Cerebral Valley × Anthropic · <a href="https://github.com/marketplace/actions/agentshield-security-scan">GitHub Marketplace</a></sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=security%20%7C%20agent%20configs&labelColor=ef4444&color=111827" alt="focus security agent configs" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/agentshield?style=flat-square&label=stars&color=f59e0b" alt="agentshield stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/agentshield?style=flat-square&label=forks&color=60a5fa" alt="agentshield forks" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/affaan-m/JARVIS"><b>JARVIS</b></a><br />
+      <sub>Real-time OSINT via autonomous web scraping + Meta Ray-Ban glasses</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=osint%20%7C%20agentic%20scraping&labelColor=22c55e&color=111827" alt="focus osint agentic scraping" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/JARVIS?style=flat-square&label=stars&color=f59e0b" alt="JARVIS stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/JARVIS?style=flat-square&label=forks&color=60a5fa" alt="JARVIS forks" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/affaan-m/claude-swarm"><b>claude-swarm</b></a><br />
+      <sub>Multi-agent orchestration for Claude Code · standalone tool</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=multi-agent%20%7C%20orchestration&labelColor=a855f7&color=111827" alt="focus multi-agent orchestration" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/claude-swarm?style=flat-square&label=stars&color=f59e0b" alt="claude-swarm stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/claude-swarm?style=flat-square&label=forks&color=60a5fa" alt="claude-swarm forks" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/affaan-m/stoictradingAI"><b>stoictradingAI</b></a><br />
+      <sub>First autonomous trading agent on Solana · 70k peak live viewers</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=autonomous%20trading%20%7C%20solana&labelColor=fb923c&color=111827" alt="focus autonomous trading solana" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/stoictradingAI?style=flat-square&label=stars&color=f59e0b" alt="stoictradingAI stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/stoictradingAI?style=flat-square&label=forks&color=60a5fa" alt="stoictradingAI forks" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/affaan-m/HyperMamba"><b>HyperMamba</b></a><br />
+      <sub>Hypernetworks + meta-learning for trading · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471">SSRN paper</a></sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=research%20%7C%20meta-learning&labelColor=a855f7&color=111827" alt="focus research meta-learning" /><br />
+      <img src="https://img.shields.io/github/stars/affaan-m/HyperMamba?style=flat-square&label=stars&color=f59e0b" alt="HyperMamba stars" />
+      <img src="https://img.shields.io/github/forks/affaan-m/HyperMamba?style=flat-square&label=forks&color=60a5fa" alt="HyperMamba forks" />
+    </td>
+  </tr>
+</table>
+
+<sub>
+Research / code: <a href="https://github.com/affaan-m/research">research</a>, <a href="https://github.com/affaan-m/econ-research-wi24">econ-research-wi24</a>, <a href="https://github.com/affaan-m/econ-research-ss24">econ-research-ss24</a>, <a href="https://github.com/affaan-m/quranic-arabic-recognition-dl">quranic-arabic-recognition-dl</a>, <a href="https://github.com/affaan-m/supply-chain-ml-optimization">supply-chain-ml-optimization</a>, <a href="https://github.com/affaan-m/market-manipulation-microcap-crypto">market-manipulation-microcap-crypto</a><br />
+Papers / mentions: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471">HyperMamba SSRN paper</a>, <a href="https://www.researchgate.net/profile/Affaan-Mustafa">ResearchGate</a>
+</sub>
+
+---
+
+## Highlights
+
+| Highlight | Detail |
+|---|---|
+| **Ex-PMX Head of Product / Founding Engineer** | Took the [pmx.trade](https://pmx.trade) launchpad past $300k MRR, built + secured the #1 trading bot on Polymarket (2025) |
+| **Open-Source Distribution** | Built [ECC](https://github.com/affaan-m/ECC) ([ecc.tools](https://ecc.tools)) and contributed to [elizaOS/eliza](https://github.com/elizaOS/eliza) + [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) |
+| **Autonomous Trading Systems** | Built autonomous trading agents and an agent-driven yield engine ([repo](https://github.com/affaan-m/stoictradingAI)); 70k peak live viewers building in public |
+| **Anthropic Hackathon Winner** | [Zenith Chat](https://zenith.chat): 1st / 100+ people, $15k credits |
+| **Research / Academia** | 3-degree path across UCSD (graduated with 2 B.S. before I was 20 + UW (dropped out) (B.S. Math-CS, B.S. Business Economics (M.S. into P.h.D track (dropped out) - Applied/Computational Math ): [UCSD Econ Research Lab](https://economics.ucsd.edu/undergraduate-program/resources/undergraduate-graduate-research-lab/index.html), [UW AMATH](https://amath.washington.edu/people/affaan-mustafa), [UCSD URC mention](https://ugresearch.ucsd.edu/students/research-directory.html) |
+| **Research Output** | [HyperMamba (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137471), microcap sentiment/manipulation work ([ResearchGate](https://www.researchgate.net/profile/Affaan-Mustafa)), and code in [research](https://github.com/affaan-m/research) / [HyperMamba](https://github.com/affaan-m/HyperMamba) / [Behavioral_RL](https://github.com/affaan-m/Behavioral_RL) / [econ-research-wi24](https://github.com/affaan-m/econ-research-wi24) / [econ-research-ss24](https://github.com/affaan-m/econ-research-ss24) / [quranic-arabic-recognition-dl](https://github.com/affaan-m/quranic-arabic-recognition-dl) / [supply-chain-ml-optimization](https://github.com/affaan-m/supply-chain-ml-optimization) / [market-manipulation-microcap-crypto](https://github.com/affaan-m/market-manipulation-microcap-crypto) |
+| **$150k+ Bootstrapped** | Founded DCUBE at 18 ([UCSD Basement portfolio](https://thebasement.ucsd.edu/portfolio/past/2023-2024/dcube.html)), self-funded tuition |
+
+---
+
+## Sponsors
+
+If ECC saves you time, [sponsor the work](https://github.com/sponsors/affaan-m). Sponsorship funds ECC maintenance. Current sponsors get named in the ECC README.
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=affaan-m&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for affaan-m" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://x.com/affaan">X</a> ·
+  <a href="https://linkedin.com/in/affaanmustafa">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@AffaanMustafa">YouTube</a> ·
+  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7544415">SSRN</a> ·
+  <a href="https://affaanmustafa.substack.com">Substack</a>
+</p>
+
+---
