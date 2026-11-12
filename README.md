@@ -28,7 +28,7 @@ compute markets<br>
 
 open source<br>
 ﹂**Creator of [ECC](https://github.com/affaan-m/ECC)**: built at 22. the fastest growing agentic engineering toolkit of all time<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂100k stars in 2 months. 272k+ now, #16 most starred repo on GitHub<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂100k stars in 2 months. 301k+ now, #15 most starred repo on GitHub<br>
 &nbsp;&nbsp;&nbsp;&nbsp;﹂used by engineers at Tesla, xAI, Amazon, ByteDance, Skydio, GoDaddy<br>
 &nbsp;&nbsp;&nbsp;&nbsp;﹂flown out to China to speak at ByteDance. technical talks at Skydio<br>
 &nbsp;&nbsp;&nbsp;&nbsp;﹂hosted GitHub App with private-repo support, paid tier from $19/mo · [ecc.tools](https://ecc.tools)
